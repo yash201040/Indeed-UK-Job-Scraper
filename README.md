@@ -1,7 +1,9 @@
 # Indeed-UK-Job-Scraper
 Web-scrapes jobs of your choice of role and city from Indeed UK
 
-To get results follow steps below:
+You can download and view the .xlsx files in the repo to see how the generated results look.
+
+To generate your own results follow steps below:
 1.  Download the 'Indeed Job Scraper.ipynb' file and open it on jupyer notebook.
 2.  Enter your desired job role, location in UK, radius from location by updating the variables in the first code chunk.
 3.  Get your free scrapeops api key by creating an account on https://scrapeops.io/ and update the api key variable with the same.
